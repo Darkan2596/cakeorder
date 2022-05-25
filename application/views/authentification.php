@@ -25,7 +25,7 @@ and open the template in the editor.
     </style>
     
     <body>
-        <main >
+        <main style="color: red" >
             <section id="sctn_from_cnx" class="p-4 border rounded bg-light">
                 <form method="post" action="/application/controllers/authentification.php">
                     <input type="hidden" name="action" value="login">
